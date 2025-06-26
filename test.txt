@@ -1,0 +1,1 @@
+"SF"|"CHI"|"CIN"|"BUF"|"DEN"|"CLE"|"TB"|"ARI"|"LAC"|"KC"|"IND"|"WAS"|"DAL"|"MIA"|"PHI"|"ATL"|"NYG"|"JAC"|"NYJ"|"DET"|"GB"|"CAR"|"NE"|"LV"|"LAR"|"BAL"|"NO"|"SEA"|"PIT"|"HOU"|"TEN"|"MIN"
