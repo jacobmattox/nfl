@@ -6,8 +6,9 @@ key: str = os.environ.get("SUPABASE_KEY")
 supabase: Client = create_client(url, key)
 
 response = (
-    supabase.table("teams")
+    supabase.table("games2025")
     .select("*")
+    .csv()
     .execute()
 )
-print(response.data, type(response.data[0]))
+print(response.data)
